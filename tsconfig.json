@@ -58,8 +58,8 @@
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
   "include": [
-    "app.ts",
-    "analytics.ts" // required to specify all files that needs to compile
+    // "app.ts",
+    // "analytics.ts" // required to specify all files that needs to compile
   ],
   "exclude": [
     "node_modules",
